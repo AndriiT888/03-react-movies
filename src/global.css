@@ -1,0 +1,15 @@
+/* src/global.css */
+
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+
+}
